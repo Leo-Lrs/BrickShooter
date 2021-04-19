@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>briques.jpg</file>
+        <file>rare_briques.jpg</file>
+        <file>veryrare_briques.jpg</file>
+        <file>extra_briques.jpg</file>
+        <file>bob_bg.jpg</file>
+        <file>bullet.png</file>
+        <file>key_bind.png</file>
+        <file>escape_bind.png</file>
+        <file>space_bar.png</file>
+        <file>player_dbz.png</file>
+        <file>background.jpg</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bullet.wav</file>
+        <file>laserpascher.wav</file>
+    </qresource>
+</RCC>
